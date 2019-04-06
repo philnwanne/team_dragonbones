@@ -13,7 +13,7 @@ The project structure is simple.
 - Page header markup goes in templates/header.php
 - Page footer markup goes in templates/footer.php
 - All styling goes in css/style.css
-- All scripting goes in js/script.js 
+- All scripting goes in js/script.js
 - Blog Posts gets saved in BlogPosts/[name_of_file].json
 - Custom functions goes in functions/[filename].php<br/>
 - All Design assest goes in designs/
@@ -33,7 +33,7 @@ The most important thing! Please update the README.md with your name in collabor
 - Get approvals from other collaborators (if successful, your code gets merged)
 - Congratulations
 
-##### For Designers:
+##### For Designers:  
 
 - Kindly star the project
 - Open an issue, drop the link to the design (and maybe a screenshot) in the issue
@@ -54,6 +54,7 @@ That will be lots of issue. Yea! true, but this provide a public archive to help
 - Abraham Jr. Agiri - [@codeekage](https://github.com/codeekage) - Team Dragon Bones Lead
 - Sholademi Elijah - [@haywhy43](https://github.com/haywhy43) @hng-teamdrangonbones/frontend-team- Member
 - Tobalase Akinyemi - [@funspectre](https://github.com/funspectre) - @hng-teamdrangonbones/backend-team - Member
+- Xavier Ihee - [@Altarmir](https://github.com/Altarmir) -  @hng-teamdrangonbones/frontend-team - Member
 - Abdulhakeem Abdulazeez - [@ayoazeez26](https://www.github.com/Ayoazeez26) - @hng-teamdragonbones/frontend-team - Member
 - Alexzender Samuel - [@alexzender45](https://github.com/alexzender45) - @hng-teamdrangonbones/frontend-team - Member
 - Ogundiji Bolade - [@adroit11](https://github.com/adroit11) - @hng-teamdrangonbones/backend-team && design - Member
@@ -64,13 +65,25 @@ That will be lots of issue. Yea! true, but this provide a public archive to help
 - Jude Jonathan - [@JonathanJude](https://github.com/JonathanJude) - @hng-teamdrangonbones/backend-team - Member
 - Oranye Nonso -[@OranyeNonso](https://github.com/OranyeNonso) - @hng-teamdragonbones/backend & frontend-team - Member
 - Chidozie Ndukaku - [@ChidozieNdukaku](https://github.com/ChidozieNdukaku) - @hng-teamdrangonbones/frontend & backend-team - Member
+- Akpan Akan - [@Akan](https://github.com/akanstein) - @hng-teamdrangonbones/frontend & backend-team - Member
 - Samuel Egahi Okwori - [@egahi](https://github.com/egahi) - @hng-teamdrangonbones/backend-team - Lead
 - Rogers Peter Ukeje- [@whizline](https://github.com/whizline) - @hng-teamdrangonbones/frontend -  Member
 - Simeon Bello - [@Seybel](https://github.com/Seybel) - @hng-teamdrangonbones/frontend-team - Member
 - Justice Otuya - [@justiceotuya](https://github.com/justiceotuya) - @hng-teamdrangonbones/frontend-team - Member
 - Nathanael Bakare - [@nathyjegs](https://github.com/nathyjegs) - @hng-teamdrangonbones/frontend-team - Member
+- Barine Sambaris - [@barrisam](https"//github.com/barrisam) - @hng-teamdragonbones/frontend-team - Member 
+- Nwani Victory - [@iamnwani01](https://github.com/vickywane) - @hng-teamdrangonbones/frontend-team - Member
 - Akinyemi Taiwo   - [@karrim4real](https://github.com/karrim-real) - @hng-teamdrangonbones/frontend-team - Member
 - Adeleye Olamdie - [@Olamide](https://github.com/larmie56) - @hng-teamdragonbones/mobile dev - Member 
 - Ossai Julius Ernest - [@julius](https://github.com/sirjuliuso) - @hng-teamdragonbones/frontend-team - Member
+- Adeosun Abiola Olalekan - [@abitech105](https://github.com/abitechcoder) - @hng-teamdrangonbones/frontend-team - Member  
+- Akerele Babatunde - [@trafiki](https://github.com/trafiki) - @hng-teamdrangonbones/frontend & backend-team - Member
+- Anuoluwapo Akinseye - [@an-apluss](https://github.com/an-apluss) - @hng-teamdragonbones/backend-team, design & frontend - Member
+- Nwosu David Ikechukwu - [@DavidNwosu](https://github.com/DavidNwosu) - @hng-teamdragonbones/frontend & backend-team - Member
+- Igunnu Emmanuel - [@Brainz] (https://github.com/Daemonicc) -@hng-teamdrangonbones/backend-team - Member
+- Ojinaka Tochukwu - [@sphinxcodex](https://github.com/sphinxcodex) - @hng-teamdrangonbones/backend-team - Member
+- Eniola Erivona - [@Eniola](https://github.com/Eniola) - @hng-teamdrangonbones/frontend-team - Member
+- Temitayo Ajakore - [@Temmy](https://github.com/Tayo-Wunmi) - @hng-teamdragonbones/frontend-team - Member   
+- Ubah Ebuka Samuel - [@god-of-speed](https://github.com/god-of-speed) - Team
 
 - Example Name - [@github-handle] - @hng-teamdrangonbones/team-name - Position (ENUMS[Member, Lead])
